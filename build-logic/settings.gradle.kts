@@ -1,8 +1,7 @@
-﻿rootProject.name = "build-logic"
+rootProject.name = "build-logic"
 
 dependencyResolutionManagement {
     repositories {
-        google()
         gradlePluginPortal()
         mavenCentral()
     }
