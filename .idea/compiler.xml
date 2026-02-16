@@ -8,9 +8,6 @@
       <module name="chatapp.app" options="-parameters" />
       <module name="chatapp.app.main" options="-parameters" />
       <module name="chatapp.app.test" options="-parameters" />
-      <module name="chatapp.common" options="-parameters" />
-      <module name="chatapp.common.main" options="-parameters" />
-      <module name="chatapp.common.test" options="-parameters" />
     </option>
   </component>
 </project>
